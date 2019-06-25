@@ -7,7 +7,7 @@ import java.io.InputStream;
 
 public class text1 {
 	public static void main(String[] args) {
-		//输入输出流的注解
+		//输入输出流的
 		zi();
 			}
 	
