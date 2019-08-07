@@ -9,5 +9,8 @@
         <module name="jsp04" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jsp04" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
